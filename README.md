@@ -17,52 +17,31 @@ Hey there, I'm a passionate **AI explorer** diving deep into the realms of **mac
 
 ---
 
-## 🛠 Technologies and Tools 🛠
+## 🛠 Technologies & Tools
 
-### 👨‍💻 Programming Languages
-- Python  
-- Java  
-- C++  
-- PHP  
+A curated list of my tech stack for building robust, scalable solutions.
 
-### 🧠 Machine Learning & Deep Learning
-- Scikit-learn  
-- PyTorch  
-- TensorFlow  
+### 🚀 Core Skills
 
-### 🐳 Containerization & Orchestration
-- Docker  
-- Kubernetes  
+| Category            | Technologies                          |
+|---------------------|---------------------------------------|
+| **Programming**     | Python, Java, C++, PHP             |
+| **Machine Learning**| Scikit-learn, PyTorch, TensorFlow  |
+| **Web & APIs**      | Flask, FastAPI, Spring Boot, JavaFX, OpenCV, Yii 2.0 |
+| **Databases**       | MySQL, PostgreSQL, Supabase, Milvus, Redis |
 
-### 🤖 AI Serving & Model Management
-- Ollama  
-- vLLM
+### 🔧 DevOps & Cloud
+- **Containerization**: 🐳 Docker, ☸️ Kubernetes
+- **Cloud**: ☁️ AWS, 🌐 Alibaba Cloud
+- **Workflow**: 🔄 n8n
 
-### 🌐 Web Frameworks & APIs
-- Flask  
-- FastAPI  
-- Spring Boot  
-- JavaFX  
-- OpenCV  
-- Yii 2.0  
+### 🤖 AI & Model Serving
+- 🦙 Ollama
+- ⚡ vLLM
 
-### ☁️ Cloud Services
-- AWS (Amazon Web Services)  
-- Alibaba Cloud  
-
-### 🛢️ Databases
-- MySQL  
-- PostgreSQL  
-- Supabase (BaaS)  
-- Milvus (Vector Database)  
-- Redis (In-memory Data Store)  
-
-### 🔧 Version Control & Collaboration
-- GitHub  
-- GitLab  
-
-### 🔁 Workflow Automation
-- n8n
+### 📚 Version Control
+- 🐙 GitHub
+- 🦊 GitLab
 
 ---
 
