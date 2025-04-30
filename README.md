@@ -28,7 +28,7 @@ A curated list of my tech stack for building robust, scalable solutions.
 | **Programming**     | Python, Java, C++, PHP             |
 | **Machine Learning**| Scikit-learn, PyTorch, TensorFlow  |
 | **Framework & Library**      | Flask, FastAPI, Spring Boot, JavaFX, OpenCV, Yii 2.0 |
-| **Databases**       | MySQL, PostgreSQL, Supabase, Milvus, Redis |
+| **Databases**       | MySQL, PostgreSQL, Supabase, Milvus, Redis (Cache) |
 
 ### 🔧 DevOps & Cloud
 - **Containerization**: 🐳 Docker, ☸️ Kubernetes
